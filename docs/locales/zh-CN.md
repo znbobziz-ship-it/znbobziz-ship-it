@@ -30,7 +30,7 @@
 | **音频子系统** | PipeWire SPA 插件系统, JACK Audio Connection Kit, ALSA 内核接口, WebAudio |
 | **实时性与并发** | 无锁环形缓冲区（Ring Buffer）, 原子操作原语, 缓存行对齐优化, PREEMPT_RT 参数调优 |
 | **性能分析与排查**| `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), 数字示波器 |
-| **工具链与构建** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **工具链与构建** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

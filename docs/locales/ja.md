@@ -30,7 +30,7 @@
 | **オーディオサブシステム** | PipeWire SPA プラグイン, JACK Audio Connection Kit, ALSA Kernel API, WebAudio |
 | **リアルタイム & 並行処理** | ロックフリーリングバッファ, アトミック基本操作, キャッシュライン整合性, PREEMPT_RT チューニング |
 | **プロファイリング & 診断** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), オシロスコープ |
-| **ツールチェイン & ビルド** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **ツールチェイン & ビルド** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

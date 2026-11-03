@@ -30,7 +30,7 @@
 | **ऑडियो सबसिस्टम** | PipeWire SPA प्लगइन्स, JACK Audio Connection Kit, ALSA Kernel API, WebAudio |
 | **रीयल-टाइम और समवर्ती** | लॉक-फ्री रिंग बफर, एटॉमिक प्रिमिटिव्स, कैश लाइन संरेखण, PREEMPT_RT ट्यूनिंग |
 | **प्रोफाइलिंग और डायग्नोस्टिक्स**| `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), ऑसिलोस्कोप |
-| **बिल्ड और टूलचेन** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **बिल्ड और टूलचेन** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

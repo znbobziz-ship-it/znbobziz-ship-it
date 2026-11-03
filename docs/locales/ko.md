@@ -30,7 +30,7 @@
 | **오디오 서브시스템** | PipeWire SPA 플러그인, JACK 오디오 커넥션 키트, ALSA 커널 API, WebAudio |
 | **실시간 & 동시성** | 락-프리 링 버퍼, 원자적 연산 프리미티브, 캐시 라인 정렬 최적화, PREEMPT_RT 튜닝 |
 | **프로파일링 & 진단** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), 오실로스코프 |
-| **빌드 & 툴체인** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **빌드 & 툴체인** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

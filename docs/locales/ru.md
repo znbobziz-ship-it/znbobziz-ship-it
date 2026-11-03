@@ -30,7 +30,7 @@
 | **Аудиоподсистемы** | Плагины PipeWire SPA, JACK Audio Connection Kit, Ядерный API ALSA, WebAudio |
 | **Реальное время и многопоточность**| Кольцевые буферы *lock-free*, атомарные примитивы, выравнивание строк кэша, тюнинг `PREEMPT_RT` |
 | **Профилирование и отладка** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), Осциллографы |
-| **Сборка и CI/CD** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **Сборка и CI/CD** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

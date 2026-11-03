@@ -30,7 +30,7 @@ Ich entwerfe und implementiere Software an der direkten Schnittstelle zwischen H
 | **Audio-Subsysteme** | PipeWire SPA Plugins, JACK Audio Connection Kit, ALSA Kernel-API, WebAudio |
 | **Echtzeit & Parallelität** | Lock-freie Ringpuffer, atomare Operationen, Cache-Line-Ausrichtung, Tuning für `PREEMPT_RT` |
 | **Profiling & Diagnose** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), Oszilloskope |
-| **Build-Systeme & CI** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **Build-Systeme & CI** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

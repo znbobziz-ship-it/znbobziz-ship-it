@@ -30,7 +30,7 @@
 | **الأنظمة الصوتية الفرعية** | ملحقات PipeWire SPA, حزمة اتصالات JACK الصوتية, واجهة ALSA البرمجية للنواة, WebAudio |
 | **الزمن الحقيقي والتزامن** | المخازن الدائرية الخالية من الأقفال, العمليات الذرية الأساسية, محاذاة سطور الكاش, ضبط معلمات `PREEMPT_RT` |
 | **التحليل والتشخيص** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), راسم الإشارات العتادي |
-| **أدوات البناء والدمج المستمر** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **أدوات البناء والدمج المستمر** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

@@ -30,7 +30,7 @@ I design and implement software that lives close to hardware clocks and wire spe
 | **Audio Subsystems** | PipeWire SPA Plugins, JACK Audio Connection Kit, ALSA Kernel API, WebAudio |
 | **Real-Time & Concurrency** | Lock-Free Ring Buffers, Atomic Primitives, Cache Line Alignment, PREEMPT_RT Tuning |
 | **Profiling & Diagnostics** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), Oscilloscopes |
-| **Toolchains & Build** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **Toolchains & Build** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

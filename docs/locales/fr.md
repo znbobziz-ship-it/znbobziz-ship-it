@@ -30,7 +30,7 @@ Je conçois et développe des logiciels fonctionnant au plus près des horloges 
 | **Sous-Systèmes Audio** | Plugins PipeWire SPA, JACK Audio Connection Kit, API noyau ALSA, WebAudio |
 | **Temps Réel & Concurrence** | Bipasseurs annulaires *lock-free*, primitives atomiques, alignement de lignes de cache, réglages `PREEMPT_RT` |
 | **Profilage & Diagnostic** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), Oscilloscopes |
-| **Chaîne de Compilation** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **Chaîne de Compilation** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 

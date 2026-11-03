@@ -30,7 +30,7 @@ Projeto e implemento software que opera nos limites entre os relógios de hardwa
 | **Subsistemas de Áudio** | Plugins PipeWire SPA, JACK Audio Connection Kit, API de Kernel ALSA, WebAudio |
 | **Tempo Real e Concorrência** | Buffers circulares *lock-free*, primitivas atômicas, alinhamento de linha de cache, ajustes finos de `PREEMPT_RT` |
 | **Perfilamento e Diagnóstico** | `perf`, `ebpf` (bpftrace), Valgrind / Massif, Wireshark (Audio over IP), Osciloscópios |
-| **Sistemas de Build e CI** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GitHub Actions CI |
+| **Sistemas de Build e CI** | Cargo, CMake, Ninja, Make, GCC, Clang/LLVM, GDB/LLDB, ASan/UBSan, Clang-Tidy |
 
 ---
 
