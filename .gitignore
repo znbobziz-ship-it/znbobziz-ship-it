@@ -1,0 +1,16 @@
+# Environment & Secrets
+.env
+*.env
+tokens.json
+env.json
+
+# Internal Browser Profile & Scripts
+browser_profile/
+scripts/
+profiles_setup.md
+load_env.js
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+node_modules/
